@@ -1,4 +1,4 @@
-# Project Title
+# compound interest calculator   
 
 One Paragraph of project description goes here
 
